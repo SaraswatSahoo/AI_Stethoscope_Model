@@ -1,0 +1,16 @@
+# Core ML
+tensorflow-cpu==2.15.0
+
+# Audio processing
+librosa
+soundfile
+numpy
+scipy
+
+# API Server
+fastapi
+uvicorn[standard]
+
+# Utilities
+pandas
+scikit-learn
